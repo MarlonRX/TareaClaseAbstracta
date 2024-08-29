@@ -15,7 +15,7 @@ public class ClaseGenerica {
         
         System.out.println("Por favor ingrese su edad :");        
         int edad = sc.nextInt();
-        sc.nextLine(); // Consumir la nueva línea pendiente
+        sc.nextLine();
         
         System.out.println("Estos son su nombre y su edad : " + nombre + ", " + edad);
         
